@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 380
+                    }
+                }
+            }
+        ]
+    }
+]

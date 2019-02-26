@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 67,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 67,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 54,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 39,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

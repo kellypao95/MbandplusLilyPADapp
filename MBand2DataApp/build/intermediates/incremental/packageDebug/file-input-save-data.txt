@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Mon Feb 25 19:49:29 COT 2019
+2.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+count=6
+0.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+1.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\KELLY\\Desktop\\MBand2&LiliPad\\MBand2DataApp\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.set=ANDROID_RESOURCE
